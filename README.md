@@ -25,13 +25,12 @@ The script will display the individual roll results and the total sum of the rol
 
 ```python
 $ python main.py
-Enter the dice notation (e.g., 2d6) or 'exit' to quit: 3d8
+Enter the dice notation (e.g., 2d6): 3d8
 Rolls: [5, 3, 8]
 Total: 16
-Enter the dice notation (e.g., 2d6) or 'exit' to quit: 1d20
+Enter the dice notation (e.g., 2d6): 1d20
 Rolls: [18]
 Total: 18
-Enter the dice notation (e.g., 2d6) or 'exit' to quit: exit
 ```
 
 ## Requirements
